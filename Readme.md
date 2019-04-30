@@ -36,7 +36,6 @@ If you have xcode 10.0 or higher installed, in order to build from source you ne
 
 ## Quick Example
 
-
 ```javascript
 const { createCanvas, loadImage } = require('canvas')
 const canvas = createCanvas(200, 200)
